@@ -10,7 +10,7 @@ node --version
 
 If node is not installed, then install it using the following command :
 
-# Using Ubuntu
+# For Ubuntu
 sudo apt-get install curl
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 source ~/.bashrc
@@ -25,7 +25,9 @@ Install pip packages using command pip install -r requirements.txt on this direc
 Install react scripts by npm install under reactproj subdirectory.
 
 To use it,open two different terminal windows.
+
 Open this directory in both terminal windows.
+
 Execute "python3 ./djnagoproj/manage.py runserver" in one and "npm start ./reactproj".
 
 Now it'll open sign up link in browser window.
