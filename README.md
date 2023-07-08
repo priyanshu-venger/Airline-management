@@ -1,4 +1,4 @@
-# Airline-Management-Syatem
+# Airline-Management-System
 Setup and Build Instructions
 Open terminal and install npm.
 sudo apt install npm
