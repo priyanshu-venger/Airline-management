@@ -26,6 +26,9 @@ Install react scripts by npm install under reactproj subdirectory.
 
 To use it,open two different terminal windows.
 Open this directory in both terminal windows.
-Execute "python3 ./djnagoproj/manage.py runserver" in one and "npm start --prefix ./reactproj".
+Execute "python3 ./djnagoproj/manage.py runserver" in one and "npm start ./reactproj".
 Now it'll open sign up link in browser window.
+Manager's credential:Email:super@gmail.com
+Password:1234 
+New manager's account can be created by command:python3 manage.py createsuperuser
 
